@@ -11,4 +11,4 @@ persona.
 
 [**1. ¿Qué son las estructuras discretas?**](tema01/README.md)
 
-[**`Anterior`**](../README.md) | [**`Siguiente`**](tema01/README.md)
+[**`Anterior`**](../README.md) / [**`Siguiente`**](tema01/README.md)
