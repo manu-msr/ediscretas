@@ -11,7 +11,7 @@ computación pues es algo a lo que nos enfrentamos en el día día de la vida ac
 
 ## <span style="color:#0DA458">Contenido</span>
 
-[**1. Introducción**](01introduccion/README.md)
-- [¿Qué son las estructuras discretas?](01introduccion/tema01/README.md)
+[**1. Introducción**](introduccion/README.md)
+- [¿Qué son las estructuras discretas?](introduccion/tema01/README.md)
 
-[**`Siguiente`**](01introduccion/README.md)
+[**`Siguiente`**](introduccion/README.md)
